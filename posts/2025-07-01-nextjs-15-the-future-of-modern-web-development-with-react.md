@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Super Fast Blog with Next.js and Markdown"
-date: "2025-07-01"
+date: "2025-07-01T22:53:00+03:00"
 excerpt: "In this post, we'll explore how to create a blazing fast blog using Next.js static generation and markdown files."
 ---
 
