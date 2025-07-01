@@ -1,6 +1,6 @@
 ---
 title: "Next.js 15: The Future of Modern Web Development with React"
-date: "2025-07-01"
+date: "2025-07-01T16:50:00+03:00"
 excerpt: "Discover how Next.js 15 revolutionizes React development with Turbopack, Server Components, and advanced performance optimizations for modern web applications."
 ---
 
