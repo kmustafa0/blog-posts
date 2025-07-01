@@ -1,6 +1,6 @@
 ---
 title: "Building Modern Web Applications with React"
-date: "2025-07-01"
+date: "2025-07-01T19:15:00+03:00"
 excerpt: "In this post, we'll explore how to develop modern and performant web applications using React."
 ---
 
